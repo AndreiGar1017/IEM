@@ -1,0 +1,151 @@
+/* Menu apartados */
+.navbar-brand{
+    color: rgb(0, 0, 0) !important;
+    font-size: 70%;
+}
+
+/* Divisor de apartados */
+.dropdown-divider{
+    color: rgb(0, 0, 0);
+}
+
+/* Hipervinculos */
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none !important;
+}
+
+/* Hover Redes Sociales */
+a:hover{
+    color:#d01116!important;
+}
+
+/* Logo */
+img{
+    width: 25vh;
+    height: 9.5vh;
+}
+
+/* Encabezado página */
+.wrap{
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background: linear-gradient(to right, rgb(0 0 0/0.25), rgb(0 0 0/0.25)), url(./images/barandales.png); */
+    background-color:#dbb541;
+    background-position: center;
+}
+
+.wrap-texto{
+    color: white;
+    text-align: center;
+    width: 50%;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.accordion-button:hover{
+    color: #d01116 !important;
+}
+
+.imagen1{
+    height: 27vh;
+    width: 49%;
+}
+
+.imagenpub{
+    height: 50vh;
+    width: 98.5%;
+}
+
+.divfoot{
+    width: 100%;
+    height: 8vh;
+}   
+
+.blancoconta{
+    width: 100%;
+    height: 3vh;
+}
+
+.imgvidrioseri2{
+    height: 49%;
+    width: 100%;
+}
+
+.barandal1{
+width: 100%;
+height: 30vh;
+}
+
+.barandal2{
+    width: 100%;
+    height: 30vh;
+}
+
+.barandal3{
+    width: 100%;
+    height: 60vh;
+}
+
+.canceleria4{
+    width: 100%;
+    height: 60vh;
+}
+
+.carta{
+    width: 50%;
+    height: 50%;
+}
+
+.puertasiz{
+    width: 100%;
+    height: 80vh;
+    /* margin-left: 10vh; */
+}
+.puertasder{
+    width: 100%;
+    height: 80vh;
+    /* margin-right: 10vh; */
+}
+
+.ventanasiz{
+    width: 100%;
+    height: 40vh;
+    /* margin-left: 10vh; */
+}
+
+.ventanasder{
+    width: 100%;
+    height: 40vh;
+    /* margin-right: 10vh; */
+}
+
+.publi1{
+    width: 100%;
+    height: 80vh;
+}
+
+.publi2{
+    width: 100%;
+    height: 40vh;
+}
+
+.puerta4{
+    width: 100%;
+    height: 80vh;
+}
+
+.vitral1{
+    width: 100%;
+    height: 100vh;
+}
+
+.vitral2{
+    width: 100%;
+    height: 50vh;
+}
