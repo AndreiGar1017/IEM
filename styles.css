@@ -315,3 +315,16 @@ height: 30vh;
 .bg-main-color {
   background-color: #dbb541 !important; /* tu dorado */
 }
+
+.btn-iem {
+  background-color: #dbb541;
+  border-color: #dbb541;
+  color: #fff;
+}
+
+.btn-iem:hover,
+.btn-iem:focus {
+  background-color: #caa732;
+  border-color: #caa732;
+  color: #fff;
+}
